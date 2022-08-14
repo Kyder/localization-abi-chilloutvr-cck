@@ -50,7 +50,7 @@ namespace ABI.CCK.Scripts.Translation
             },
             {
                 "ABI_UI_BUILDPANEL_WORLDS_ERROR_NO_CONTENT",
-                "No content found in present scene. Did you forget to add a descriptor component to a game object? Žádný obsah nebyl nalezen v přítomné scéně. Zapoměli jste přidat komponentu na herní objekt?"
+                "Žádný obsah nebyl nalezen v přítomné scéně. Zapoměli jste přidat komponentu na herní objekt?"
             },
             {
                 "ABI_UI_BUILDPANEL_WORLDS_ERROR_UNITY_UNSUPPORTED",
@@ -69,7 +69,7 @@ namespace ABI.CCK.Scripts.Translation
             },
             {"ABI_UI_BUILDPANEL_INFOTEXT_SIGNIN1", "Prosím autorizujte se, použitím svých přihlašovacích CCK údajů."},
             {"ABI_UI_BUILDPANEL_INFOTEXT_SIGNIN2", "Můžete je nalézt na hub.abinteractive.net."},
-            {"ABI_UI_BUILDPANEL_INFOTEXT_SIGNIN3", "Please generate a CCK Key in the key manager. Prosím vygenerujte si CCK key v key manageru"},
+            {"ABI_UI_BUILDPANEL_INFOTEXT_SIGNIN3", "Prosím vygenerujte si CCK key v key manageru"},
             {"ABI_UI_BUILDPANEL_INFOTEXT_AUTHENTICATED_AS", "Autorizován jako"},
             {"ABI_UI_BUILDPANEL_INFOTEXT_USER_RANK", "API uživatelská hodnost"},
             {"ABI_UI_BUILDPANEL_SETTINGS_HEADER", "Nahrávací nastavení"},
